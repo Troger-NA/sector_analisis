@@ -1,0 +1,4992 @@
+[
+    {
+        "date": "2024-12-02",
+        "categories": [
+            {
+                "sector": "Smart Contract Platform",
+                "market_cap": 2958992199423.018,
+                "market_cap_change_24h": -0.547283824027599
+            },
+            {
+                "sector": "Layer 1 (L1)",
+                "market_cap": 2754991710333.7764,
+                "market_cap_change_24h": -1.1048238404658925
+            },
+            {
+                "sector": "Proof of Work (PoW)",
+                "market_cap": 1995926140577.0266,
+                "market_cap_change_24h": -0.833881956665369
+            },
+            {
+                "sector": "Proof of Stake (PoS)",
+                "market_cap": 785007454555.8989,
+                "market_cap_change_24h": -1.4078361194329183
+            },
+            {
+                "sector": "Andreessen Horowitz (a16z) Portfolio",
+                "market_cap": 781019651342.2434,
+                "market_cap_change_24h": 4.20607468614565
+            },
+            {
+                "sector": "Multicoin Capital Portfolio",
+                "market_cap": 600818985219.108,
+                "market_cap_change_24h": -2.6772774064496407
+            },
+            {
+                "sector": "Alameda Research Portfolio",
+                "market_cap": 577109973922.0859,
+                "market_cap_change_24h": -2.8114948797271806
+            },
+            {
+                "sector": "Delphi Ventures Portfolio",
+                "market_cap": 560290266393.7402,
+                "market_cap_change_24h": -3.09976716648193
+            },
+            {
+                "sector": "Galaxy Digital Portfolio",
+                "market_cap": 468730715888.23047,
+                "market_cap_change_24h": -1.814232225885109
+            },
+            {
+                "sector": "Alleged SEC Securities",
+                "market_cap": 318528230322.4339,
+                "market_cap_change_24h": -0.7084524819987701
+            },
+            {
+                "sector": "Pantera Capital Portfolio",
+                "market_cap": 229415756111.7359,
+                "market_cap_change_24h": 26.216430785153378
+            },
+            {
+                "sector": "Blockchain Capital Portfolio",
+                "market_cap": 198647071222.97266,
+                "market_cap_change_24h": 30.58768037058061
+            },
+            {
+                "sector": "Stablecoins",
+                "market_cap": 197637812436.59552,
+                "market_cap_change_24h": 0.16694533625663427
+            },
+            {
+                "sector": "Fiat-backed Stablecoin",
+                "market_cap": 191843640389.4505,
+                "market_cap_change_24h": 0.11469086215166549
+            },
+            {
+                "sector": "USD Stablecoin",
+                "market_cap": 189099826187.69836,
+                "market_cap_change_24h": 0.16498763982278397
+            },
+            {
+                "sector": "Polychain Capital Portfolio",
+                "market_cap": 169099229984.61322,
+                "market_cap_change_24h": -1.9768697516596834
+            },
+            {
+                "sector": "Exchange-based Tokens",
+                "market_cap": 138338108658.7473,
+                "market_cap_change_24h": -0.7878860312682623
+            },
+            {
+                "sector": "Meme",
+                "market_cap": 128727233628.11926,
+                "market_cap_change_24h": -1.0363119549404807
+            },
+            {
+                "sector": "Decentralized Finance (DeFi)",
+                "market_cap": 121590975526.8752,
+                "market_cap_change_24h": 3.384726391645967
+            },
+            {
+                "sector": "Centralized Exchange (CEX) Token",
+                "market_cap": 120933444437.31569,
+                "market_cap_change_24h": -1.6589423801898686
+            },
+            {
+                "sector": "Dog-Themed",
+                "market_cap": 93629376803.18538,
+                "market_cap_change_24h": 0.8182343581764963
+            },
+            {
+                "sector": "DWF Labs Portfolio",
+                "market_cap": 74205792357.64684,
+                "market_cap_change_24h": 3.155252849937114
+            },
+            {
+                "sector": "Coinbase Ventures Portfolio",
+                "market_cap": 66690346247.00245,
+                "market_cap_change_24h": -0.2943327794691514
+            },
+            {
+                "sector": "Elon Musk-Inspired",
+                "market_cap": 62418260867.2912,
+                "market_cap_change_24h": -0.2306733482751711
+            },
+            {
+                "sector": "DragonFly Capital Portfolio",
+                "market_cap": 58213084795.77238,
+                "market_cap_change_24h": 5.188900940280162
+            },
+            {
+                "sector": "Liquid Staking",
+                "market_cap": 57853647305.594025,
+                "market_cap_change_24h": -2.4605091971160413
+            },
+            {
+                "sector": "Crypto-Backed Tokens",
+                "market_cap": 53571356782.88018,
+                "market_cap_change_24h": -2.304648613783269
+            },
+            {
+                "sector": "Infrastructure",
+                "market_cap": 53199695786.239975,
+                "market_cap_change_24h": 10.535462379060482
+            },
+            {
+                "sector": "Liquid Staking Tokens",
+                "market_cap": 52407279841.238174,
+                "market_cap_change_24h": -2.600158636862894
+            },
+            {
+                "sector": "Binance Labs Portfolio",
+                "market_cap": 52384297537.323845,
+                "market_cap_change_24h": 0.08632956131842506
+            },
+            {
+                "sector": "Animoca Brands Portfolio",
+                "market_cap": 52058098117.32014,
+                "market_cap_change_24h": 2.296109813096829
+            },
+            {
+                "sector": "Wrapped-Tokens",
+                "market_cap": 49348911098.62649,
+                "market_cap_change_24h": -2.3210299284520315
+            },
+            {
+                "sector": "Liquid Staked ETH",
+                "market_cap": 41950934743.95429,
+                "market_cap_change_24h": -2.3818025430603242
+            },
+            {
+                "sector": "Artificial Intelligence (AI)",
+                "market_cap": 41543015035.84322,
+                "market_cap_change_24h": -3.4239525003656404
+            },
+            {
+                "sector": "DePIN",
+                "market_cap": 40250018727.348785,
+                "market_cap_change_24h": -0.2798230969819461
+            },
+            {
+                "sector": "NFT",
+                "market_cap": 37767421842.33247,
+                "market_cap_change_24h": 0.6328859968238214
+            },
+            {
+                "sector": "Eth 2.0 Staking",
+                "market_cap": 36810509310.16731,
+                "market_cap_change_24h": -2.4349636404959836
+            },
+            {
+                "sector": "Layer 2 (L2)",
+                "market_cap": 32857348044.46372,
+                "market_cap_change_24h": 3.0754572856781035
+            },
+            {
+                "sector": "Circle Ventures Portfolio",
+                "market_cap": 32046939906.92205,
+                "market_cap_change_24h": -0.9851645922119687
+            },
+            {
+                "sector": "Decentralized Exchange (DEX)",
+                "market_cap": 31050394905.84004,
+                "market_cap_change_24h": 2.2249567185440164
+            },
+            {
+                "sector": "Gaming (GameFi)",
+                "market_cap": 28809182905.505344,
+                "market_cap_change_24h": 2.1465279420977863
+            },
+            {
+                "sector": "Paradigm Portfolio",
+                "market_cap": 27966055668.517376,
+                "market_cap_change_24h": 4.786068177204735
+            },
+            {
+                "sector": "Index Coop Defi Index",
+                "market_cap": 27768835844.839474,
+                "market_cap_change_24h": 3.461255316699651
+            },
+            {
+                "sector": "Index Coop Index",
+                "market_cap": 27764506360.995483,
+                "market_cap_change_24h": 3.4733611308431436
+            },
+            {
+                "sector": "Layer 0 (L0)",
+                "market_cap": 25598509540.139717,
+                "market_cap_change_24h": 27.02335173877334
+            },
+            {
+                "sector": "DeFiance Capital Portfolio",
+                "market_cap": 25490174574.26364,
+                "market_cap_change_24h": 10.193759992782086
+            },
+            {
+                "sector": "Outlier Ventures Portfolio",
+                "market_cap": 23484392338.648685,
+                "market_cap_change_24h": 28.42044657904919
+            },
+            {
+                "sector": "Yield Farming",
+                "market_cap": 21208723183.270004,
+                "market_cap_change_24h": 5.364672544677349
+            },
+            {
+                "sector": "Binance Launchpool",
+                "market_cap": 20850503704.791237,
+                "market_cap_change_24h": -1.4831142051919957
+            },
+            {
+                "sector": "Binance Launchpad",
+                "market_cap": 19790634883.75728,
+                "market_cap_change_24h": 1.4498486375073938
+            },
+            {
+                "sector": "Oracle",
+                "market_cap": 19643783199.15529,
+                "market_cap_change_24h": 23.211261353093825
+            },
+            {
+                "sector": "Real World Assets (RWA)",
+                "market_cap": 19256131024.561787,
+                "market_cap_change_24h": 4.908727379217451
+            },
+            {
+                "sector": "Solana Meme",
+                "market_cap": 18646872075.576683,
+                "market_cap_change_24h": -7.493790159734444
+            },
+            {
+                "sector": "Restaking",
+                "market_cap": 18247719746.309803,
+                "market_cap_change_24h": -1.647187578007608
+            },
+            {
+                "sector": "Automated Market Maker (AMM)",
+                "market_cap": 17100384825.010162,
+                "market_cap_change_24h": 3.6994618245883784
+            },
+            {
+                "sector": "Play To Earn",
+                "market_cap": 15965151710.71712,
+                "market_cap_change_24h": 1.1739368937800372
+            },
+            {
+                "sector": "OKX Ventures Portfolio",
+                "market_cap": 14817904822.104773,
+                "market_cap_change_24h": -2.489341903437396
+            },
+            {
+                "sector": "Metaverse",
+                "market_cap": 14746050218.686602,
+                "market_cap_change_24h": -0.4437419042518211
+            },
+            {
+                "sector": "Liquid Restaking Tokens",
+                "market_cap": 13879524516.237259,
+                "market_cap_change_24h": -2.1980567702554854
+            },
+            {
+                "sector": "Bitcoin Fork",
+                "market_cap": 13611985902.032978,
+                "market_cap_change_24h": 1.4959854573756837
+            },
+            {
+                "sector": "Rollup",
+                "market_cap": 13508415683.183468,
+                "market_cap_change_24h": 3.0648268943704857
+            },
+            {
+                "sector": "Zero Knowledge (ZK)",
+                "market_cap": 13294965602.73221,
+                "market_cap_change_24h": 4.838344352205052
+            },
+            {
+                "sector": "Data Availability",
+                "market_cap": 13210923038.47799,
+                "market_cap_change_24h": -1.1344382028517874
+            },
+            {
+                "sector": "Frog-Themed",
+                "market_cap": 12237801289.192913,
+                "market_cap_change_24h": -2.018508915842096
+            },
+            {
+                "sector": "The Boy\u2019s Club",
+                "market_cap": 11466235831.021479,
+                "market_cap_change_24h": -0.6703419755725112
+            },
+            {
+                "sector": "Storage",
+                "market_cap": 10744254649.589066,
+                "market_cap_change_24h": 2.062737804350336
+            },
+            {
+                "sector": "Sequoia Capital Portfolio",
+                "market_cap": 10533089506.052168,
+                "market_cap_change_24h": 5.479059659449641
+            },
+            {
+                "sector": "eGirl Capital Portfolio",
+                "market_cap": 10292052443.124264,
+                "market_cap_change_24h": -1.6842699599965822
+            },
+            {
+                "sector": "Internet of Things (IOT)",
+                "market_cap": 10219558843.819386,
+                "market_cap_change_24h": 18.989969901377705
+            },
+            {
+                "sector": "Lending/Borrowing",
+                "market_cap": 9905124516.919344,
+                "market_cap_change_24h": 4.466439147367286
+            },
+            {
+                "sector": "AI Agents",
+                "market_cap": 8792006138.17274,
+                "market_cap_change_24h": -2.0668904944401927
+            },
+            {
+                "sector": "Ether.fi Ecosystem",
+                "market_cap": 8624366035.7692,
+                "market_cap_change_24h": -2.596779223690157
+            },
+            {
+                "sector": "Gaming Blockchains",
+                "market_cap": 8420876359.055343,
+                "market_cap_change_24h": -0.0207825916524422
+            },
+            {
+                "sector": "Privacy Coins",
+                "market_cap": 6999814453.979414,
+                "market_cap_change_24h": 11.390914657206972
+            },
+            {
+                "sector": "Bridged-Tokens",
+                "market_cap": 6916155804.846729,
+                "market_cap_change_24h": 0.003988593219390622
+            },
+            {
+                "sector": "Gaming Utility Token",
+                "market_cap": 6829489200.475287,
+                "market_cap_change_24h": 8.140858952196051
+            },
+            {
+                "sector": "SideChain",
+                "market_cap": 6814989171.473618,
+                "market_cap_change_24h": -6.310714199535088
+            },
+            {
+                "sector": "Stablecoin Protocol",
+                "market_cap": 6760205948.417856,
+                "market_cap_change_24h": 1.6645949637303672
+            },
+            {
+                "sector": "Optimism Superchain Ecosystem",
+                "market_cap": 6651233836.739619,
+                "market_cap_change_24h": -2.728474544817557
+            },
+            {
+                "sector": "Pump.fun Ecosystem",
+                "market_cap": 6462564496.14643,
+                "market_cap_change_24h": -7.213802515504707
+            },
+            {
+                "sector": "Derivatives",
+                "market_cap": 6365098070.157233,
+                "market_cap_change_24h": 0.6340589380289563
+            },
+            {
+                "sector": "Perpetuals",
+                "market_cap": 5980041297.754516,
+                "market_cap_change_24h": -2.6699239627131726
+            },
+            {
+                "sector": "Consensys Portfolio",
+                "market_cap": 5631721822.978617,
+                "market_cap_change_24h": 6.043287352657254
+            },
+            {
+                "sector": "Modular Blockchain",
+                "market_cap": 5360908221.525968,
+                "market_cap_change_24h": -7.082419815819485
+            },
+            {
+                "sector": "Bitcoin Sidechains",
+                "market_cap": 5294946868.282091,
+                "market_cap_change_24h": -7.656524364853151
+            },
+            {
+                "sector": "Gaming Governance Token",
+                "market_cap": 5260425839.909004,
+                "market_cap_change_24h": 3.4114068271416573
+            },
+            {
+                "sector": "Crypto-backed Stablecoin",
+                "market_cap": 4773313236.604012,
+                "market_cap_change_24h": 0.998613990617823
+            },
+            {
+                "sector": "Cat-Themed",
+                "market_cap": 4728526868.135333,
+                "market_cap_change_24h": -10.418508386591679
+            },
+            {
+                "sector": "RWA Protocol",
+                "market_cap": 4525182229.93154,
+                "market_cap_change_24h": 5.553700171451084
+            },
+            {
+                "sector": "AI Meme",
+                "market_cap": 4518847279.172938,
+                "market_cap_change_24h": -10.785440020601246
+            },
+            {
+                "sector": "Cross-chain Communication",
+                "market_cap": 4044085872.5473795,
+                "market_cap_change_24h": 7.643457149206098
+            },
+            {
+                "sector": "Analytics",
+                "market_cap": 4041669939.9460006,
+                "market_cap_change_24h": -1.1927839159800462
+            },
+            {
+                "sector": "Liquid Staking Governance Tokens",
+                "market_cap": 3875167802.008306,
+                "market_cap_change_24h": -0.6657892632986209
+            },
+            {
+                "sector": "Bridge Governance Tokens",
+                "market_cap": 3841367874.4530816,
+                "market_cap_change_24h": 4.1641101347378955
+            },
+            {
+                "sector": "Decentralized Identifier (DID)",
+                "market_cap": 3776221017.970257,
+                "market_cap_change_24h": -6.84004865346701
+            },
+            {
+                "sector": "Murad Picks",
+                "market_cap": 3739255713.4234047,
+                "market_cap_change_24h": -17.833141261173164
+            },
+            {
+                "sector": "Liquid Staked SOL",
+                "market_cap": 3671481504.3654547,
+                "market_cap_change_24h": -5.940551247984425
+            },
+            {
+                "sector": "Privacy Blockchain",
+                "market_cap": 3405000984.1528325,
+                "market_cap_change_24h": 3.9896736315324937
+            },
+            {
+                "sector": "Base Meme",
+                "market_cap": 3171710020.4247465,
+                "market_cap_change_24h": 1.339387256737761
+            },
+            {
+                "sector": "Simulation Games",
+                "market_cap": 3109059076.6959376,
+                "market_cap_change_24h": -0.5008248761174577
+            },
+            {
+                "sector": "Launchpad",
+                "market_cap": 3045679471.4494605,
+                "market_cap_change_24h": -6.940225011536066
+            },
+            {
+                "sector": "Sports",
+                "market_cap": 3038785217.766575,
+                "market_cap_change_24h": 5.8218369583926295
+            },
+            {
+                "sector": "Bridged WETH",
+                "market_cap": 2977825953.751523,
+                "market_cap_change_24h": 1.1874391358917804
+            },
+            {
+                "sector": "Gaming Platform",
+                "market_cap": 2913697119.910302,
+                "market_cap_change_24h": 2.22447740734102
+            },
+            {
+                "sector": "Wallets",
+                "market_cap": 2902590604.4624763,
+                "market_cap_change_24h": 6.183161194903263
+            },
+            {
+                "sector": "Parallelized EVM",
+                "market_cap": 2589707133.257956,
+                "market_cap_change_24h": -5.836939783135291
+            },
+            {
+                "sector": "TokenFi Launchpad",
+                "market_cap": 2583260823.7389555,
+                "market_cap_change_24h": -3.5079644614891285
+            },
+            {
+                "sector": "Entertainment",
+                "market_cap": 2526722436.0576944,
+                "market_cap_change_24h": 1.4439610192532486
+            },
+            {
+                "sector": "Dex Aggregator",
+                "market_cap": 2524088411.3343306,
+                "market_cap_change_24h": 1.5079792602321922
+            },
+            {
+                "sector": "Masternodes",
+                "market_cap": 2363070986.911093,
+                "market_cap_change_24h": 9.282318536627645
+            },
+            {
+                "sector": "Tokenized Assets",
+                "market_cap": 2349424436.833276,
+                "market_cap_change_24h": -0.7763247282584635
+            },
+            {
+                "sector": "Card Games",
+                "market_cap": 2257758484.5903254,
+                "market_cap_change_24h": 3.2768006999086037
+            },
+            {
+                "sector": "AI Agent Launchpad",
+                "market_cap": 2073130408.252923,
+                "market_cap_change_24h": -0.22355814471482846
+            },
+            {
+                "sector": "Zoo-Themed",
+                "market_cap": 2067181129.1077652,
+                "market_cap_change_24h": 11.994435482363713
+            },
+            {
+                "sector": "Account Abstraction",
+                "market_cap": 2054496065.4612966,
+                "market_cap_change_24h": 3.6716493678691378
+            },
+            {
+                "sector": "NFT Marketplace",
+                "market_cap": 2026520132.149073,
+                "market_cap_change_24h": 2.691215070894273
+            },
+            {
+                "sector": "Virtuals Protocol Ecosystem",
+                "market_cap": 1799614943.8111048,
+                "market_cap_change_24h": -21.786067006846167
+            },
+            {
+                "sector": "Telegram Apps",
+                "market_cap": 1775360533.0118165,
+                "market_cap_change_24h": -6.972936668345586
+            },
+            {
+                "sector": "Inscriptions",
+                "market_cap": 1744164785.177875,
+                "market_cap_change_24h": -7.864273123242429
+            },
+            {
+                "sector": "Curve Ecosystem",
+                "market_cap": 1743399358.969248,
+                "market_cap_change_24h": 10.066783756035468
+            },
+            {
+                "sector": "Tokenized Commodities",
+                "market_cap": 1731301760.3995252,
+                "market_cap_change_24h": -0.5108084703740884
+            },
+            {
+                "sector": "SocialFi",
+                "market_cap": 1711744506.3018382,
+                "market_cap_change_24h": 2.501937133775747
+            },
+            {
+                "sector": "Name Service",
+                "market_cap": 1693364263.8548737,
+                "market_cap_change_24h": 11.031500525519023
+            },
+            {
+                "sector": "BRC-20",
+                "market_cap": 1638048943.8341553,
+                "market_cap_change_24h": -6.813155687395196
+            },
+            {
+                "sector": "Appchains",
+                "market_cap": 1626425089.8233414,
+                "market_cap_change_24h": 3.1257651823596277
+            },
+            {
+                "sector": "Liquid Restaking Governance Tokens",
+                "market_cap": 1624611501.6639462,
+                "market_cap_change_24h": -0.5931284626405027
+            },
+            {
+                "sector": "Tokenized Gold",
+                "market_cap": 1616402247.7768226,
+                "market_cap_change_24h": -0.248655347403907
+            },
+            {
+                "sector": "Axie Infinity Ecosystem",
+                "market_cap": 1593219254.3036923,
+                "market_cap_change_24h": 10.535676144313005
+            },
+            {
+                "sector": "Avalanche L1",
+                "market_cap": 1565848889.35225,
+                "market_cap_change_24h": 2.0040818673412857
+            },
+            {
+                "sector": "Bridged WBTC",
+                "market_cap": 1500662863.6294599,
+                "market_cap_change_24h": -1.4630903575941516
+            },
+            {
+                "sector": "MEV Protection",
+                "market_cap": 1441645452.9543808,
+                "market_cap_change_24h": -0.9800500836302226
+            },
+            {
+                "sector": "Breeding",
+                "market_cap": 1431361493.9402993,
+                "market_cap_change_24h": 11.209872243010189
+            },
+            {
+                "sector": "Tap to Earn",
+                "market_cap": 1407596672.5755644,
+                "market_cap_change_24h": -3.899290860840632
+            },
+            {
+                "sector": "Synthetic Issuer",
+                "market_cap": 1390182820.5972857,
+                "market_cap_change_24h": 3.312431110504389
+            },
+            {
+                "sector": "Rollups-as-a-Service (RaaS)",
+                "market_cap": 1359654477.3340082,
+                "market_cap_change_24h": -1.1104933671217243
+            },
+            {
+                "sector": "TON Meme",
+                "market_cap": 1351694184.9318824,
+                "market_cap_change_24h": -6.259062102767525
+            },
+            {
+                "sector": "Memorial Themed",
+                "market_cap": 1336361362.6014662,
+                "market_cap_change_24h": 2.807590004936908
+            },
+            {
+                "sector": "Yield Aggregator",
+                "market_cap": 1196489417.2736595,
+                "market_cap_change_24h": 11.099250627245514
+            },
+            {
+                "sector": "Decentralized Science (DeSci)",
+                "market_cap": 1193305716.6583667,
+                "market_cap_change_24h": -7.611145695982676
+            },
+            {
+                "sector": "LSDFi",
+                "market_cap": 1171694097.9428644,
+                "market_cap_change_24h": -1.646740441338067
+            },
+            {
+                "sector": "Prediction Markets",
+                "market_cap": 1168144094.8620749,
+                "market_cap_change_24h": -2.724296398323996
+            },
+            {
+                "sector": "Runes",
+                "market_cap": 1116139867.1657321,
+                "market_cap_change_24h": -7.036370303944772
+            },
+            {
+                "sector": "Seigniorage",
+                "market_cap": 1095052287.107359,
+                "market_cap_change_24h": 1.0186589880603325
+            },
+            {
+                "sector": "Layer 3 (L3)",
+                "market_cap": 1090426695.4509933,
+                "market_cap_change_24h": -2.4022726022451115
+            },
+            {
+                "sector": "NFTFi",
+                "market_cap": 1013912539.5239276,
+                "market_cap_change_24h": 2.98381391587775
+            },
+            {
+                "sector": "DaoMaker Launchpad",
+                "market_cap": 1002357395.489981,
+                "market_cap_change_24h": -1.2847017410337689
+            },
+            {
+                "sector": "Liquid Restaked ETH",
+                "market_cap": 989472112.1435188,
+                "market_cap_change_24h": 9.995560006328802
+            },
+            {
+                "sector": "Fixed Interest",
+                "market_cap": 980520536.0875158,
+                "market_cap_change_24h": -1.3742994230678978
+            },
+            {
+                "sector": "Algorithmic Stablecoin",
+                "market_cap": 971520329.2180952,
+                "market_cap_change_24h": -0.29429866077698136
+            },
+            {
+                "sector": "BTCfi",
+                "market_cap": 963282792.8341645,
+                "market_cap_change_24h": -1.6425154015086219
+            },
+            {
+                "sector": "Bridged USDC",
+                "market_cap": 950798380.6234112,
+                "market_cap_change_24h": -0.045184415628232735
+            },
+            {
+                "sector": "LRTfi",
+                "market_cap": 946884740.5346693,
+                "market_cap_change_24h": -1.489545415247788
+            },
+            {
+                "sector": "Yield Tokenization Protocol",
+                "market_cap": 937937224.7446002,
+                "market_cap_change_24h": -1.4145961395733504
+            },
+            {
+                "sector": "Terminal of Truths",
+                "market_cap": 892562984.2665802,
+                "market_cap_change_24h": -18.59596321411178
+            },
+            {
+                "sector": "RPG",
+                "market_cap": 892149223.1230586,
+                "market_cap_change_24h": -0.35191782131230676
+            },
+            {
+                "sector": "Payment Solutions",
+                "market_cap": 862504187.7225163,
+                "market_cap_change_24h": 2.392183188698968
+            },
+            {
+                "sector": "Move To Earn",
+                "market_cap": 689639116.3313079,
+                "market_cap_change_24h": -1.2773903979854446
+            },
+            {
+                "sector": "Sports Games",
+                "market_cap": 672186342.3969811,
+                "market_cap_change_24h": -1.171214514895749
+            },
+            {
+                "sector": "Olympus Pro Ecosystem",
+                "market_cap": 664627653.397632,
+                "market_cap_change_24h": 0.872375026645755
+            },
+            {
+                "sector": "Yearn Ecosystem",
+                "market_cap": 656315606.307129,
+                "market_cap_change_24h": 3.0970957014615923
+            },
+            {
+                "sector": "Intent",
+                "market_cap": 626331571.1445554,
+                "market_cap_change_24h": 9.946858156755464
+            },
+            {
+                "sector": "Discord Bots",
+                "market_cap": 619387958.1113074,
+                "market_cap_change_24h": -9.566943238960631
+            },
+            {
+                "sector": "Gambling (GambleFi)",
+                "market_cap": 595616804.2565482,
+                "market_cap_change_24h": 7.105561648173811
+            },
+            {
+                "sector": "Venture Capital Portfolios",
+                "market_cap": 594116392.089649,
+                "market_cap_change_24h": 7.952853382388596
+            },
+            {
+                "sector": "Rebase Tokens",
+                "market_cap": 525671020.0400438,
+                "market_cap_change_24h": 3.98550467491987
+            },
+            {
+                "sector": "Poolz Finance Launchpad",
+                "market_cap": 500117271.15980697,
+                "market_cap_change_24h": -3.411394553081739
+            },
+            {
+                "sector": "Quest-to-Earn",
+                "market_cap": 497299111.3056205,
+                "market_cap_change_24h": 35.78640935734464
+            },
+            {
+                "sector": "Metagovernance",
+                "market_cap": 485147968.4349501,
+                "market_cap_change_24h": 21.69604601143991
+            },
+            {
+                "sector": "PolitiFi",
+                "market_cap": 476601179.2638751,
+                "market_cap_change_24h": -3.213020389056919
+            },
+            {
+                "sector": "Insurance",
+                "market_cap": 472671981.8800063,
+                "market_cap_change_24h": 1.0827649433601092
+            },
+            {
+                "sector": "Farcaster Ecosystem",
+                "market_cap": 468273146.51205033,
+                "market_cap_change_24h": -4.682150688947648
+            },
+            {
+                "sector": "Adventure Games",
+                "market_cap": 446733597.7527635,
+                "market_cap_change_24h": -1.8483939969419008
+            },
+            {
+                "sector": "Yield Optimizer",
+                "market_cap": 437448086.7408749,
+                "market_cap_change_24h": 26.298251389545378
+            },
+            {
+                "sector": "Guild and Scholarship",
+                "market_cap": 436289581.47986424,
+                "market_cap_change_24h": 4.02770846681114
+            },
+            {
+                "sector": "Music",
+                "market_cap": 429348631.50224733,
+                "market_cap_change_24h": 6.893503840316746
+            },
+            {
+                "sector": "Sui Meme",
+                "market_cap": 388316429.3750018,
+                "market_cap_change_24h": -13.000061329417012
+            },
+            {
+                "sector": "Cybersecurity",
+                "market_cap": 353657569.39717215,
+                "market_cap_change_24h": 1.009920609228051
+            },
+            {
+                "sector": "ChainGPT Launchpad",
+                "market_cap": 352756514.71796554,
+                "market_cap_change_24h": -5.767413976724737
+            },
+            {
+                "sector": "Compound Tokens",
+                "market_cap": 351623569.633919,
+                "market_cap_change_24h": -1.4151332083790935
+            },
+            {
+                "sector": "Bridged USDT",
+                "market_cap": 344404298.62687004,
+                "market_cap_change_24h": 0.10855384640837806
+            },
+            {
+                "sector": "EUR Stablecoin",
+                "market_cap": 326941742.476066,
+                "market_cap_change_24h": -1.149117864060818
+            },
+            {
+                "sector": "Hybrid Token Standards",
+                "market_cap": 318969491.1180483,
+                "market_cap_change_24h": -9.181710629154882
+            },
+            {
+                "sector": "Liquid Restaked SOL",
+                "market_cap": 316404192.7082799,
+                "market_cap_change_24h": -9.316476471439051
+            },
+            {
+                "sector": "Tokenized Real Estate",
+                "market_cap": 291482010.8743597,
+                "market_cap_change_24h": -4.874665325305138
+            },
+            {
+                "sector": "Energy",
+                "market_cap": 273871586.4374203,
+                "market_cap_change_24h": -0.08610556048780015
+            },
+            {
+                "sector": "Fan Token",
+                "market_cap": 261307953.6392733,
+                "market_cap_change_24h": 3.20042283728298
+            },
+            {
+                "sector": "Binance Megadrop",
+                "market_cap": 260828947.11155725,
+                "market_cap_change_24h": -4.010379488039651
+            },
+            {
+                "sector": "TRON Meme",
+                "market_cap": 244545016.09482655,
+                "market_cap_change_24h": -8.102533213481223
+            },
+            {
+                "sector": "Education",
+                "market_cap": 238716892.28595886,
+                "market_cap_change_24h": -0.058857184768570325
+            },
+            {
+                "sector": "Commodity-backed Stablecoin",
+                "market_cap": 234844183.34315592,
+                "market_cap_change_24h": -0.4376101500522344
+            },
+            {
+                "sector": "Parody Meme",
+                "market_cap": 230623857.2559194,
+                "market_cap_change_24h": -19.871683546508446
+            },
+            {
+                "sector": "Sun Pump Ecosystem",
+                "market_cap": 216738707.7884327,
+                "market_cap_change_24h": -8.6283077577691
+            },
+            {
+                "sector": "Tokenized Treasury Bonds (T-Bonds)",
+                "market_cap": 197512192.2172335,
+                "market_cap_change_24h": -0.7243045851324323
+            },
+            {
+                "sector": "Binance HODLer Airdrops",
+                "market_cap": 197241450.91910213,
+                "market_cap_change_24h": -14.858702673206095
+            },
+            {
+                "sector": "Strategy Games",
+                "market_cap": 188620623.45925182,
+                "market_cap_change_24h": 1.066914730353248
+            },
+            {
+                "sector": "Fractionalized NFT",
+                "market_cap": 187781903.2819458,
+                "market_cap_change_24h": -7.857308787232007
+            },
+            {
+                "sector": "Morpho Ecosystem",
+                "market_cap": 181733371.23564735,
+                "market_cap_change_24h": -13.09106898163733
+            },
+            {
+                "sector": "Bridged DAI",
+                "market_cap": 176320222.27297786,
+                "market_cap_change_24h": -0.9606935344395601
+            },
+            {
+                "sector": "Marketing",
+                "market_cap": 169750497.88394263,
+                "market_cap_change_24h": -2.7117580367397545
+            },
+            {
+                "sector": "Animal Racing",
+                "market_cap": 149446819.96977255,
+                "market_cap_change_24h": -1.338399784910228
+            },
+            {
+                "sector": "AI Applications",
+                "market_cap": 149412442.19509682,
+                "market_cap_change_24h": -0.8864317861194284
+            },
+            {
+                "sector": "Healthcare",
+                "market_cap": 142135431.5415248,
+                "market_cap_change_24h": -7.3447866535717266
+            },
+            {
+                "sector": "Racing Games",
+                "market_cap": 138122127.13483557,
+                "market_cap_change_24h": -5.429266595642688
+            },
+            {
+                "sector": "Liquid Staked APT\t",
+                "market_cap": 133644973.38102761,
+                "market_cap_change_24h": -1.4221274837726607
+            },
+            {
+                "sector": "Mascot-Themed",
+                "market_cap": 132166678.7155638,
+                "market_cap_change_24h": -17.23359691296285
+            },
+            {
+                "sector": "Regenerative Finance (ReFi)",
+                "market_cap": 131370543.58840075,
+                "market_cap_change_24h": 5.466922572296479
+            },
+            {
+                "sector": "Tokenized Treasury Bills (T-Bills)",
+                "market_cap": 121832491.7533494,
+                "market_cap_change_24h": 2.1249738963924965
+            },
+            {
+                "sector": "Tokenized Silver",
+                "market_cap": 115269228.88274448,
+                "market_cap_change_24h": -3.6394343422349826
+            },
+            {
+                "sector": "Options",
+                "market_cap": 108988885.80766258,
+                "market_cap_change_24h": 0.29678818118152683
+            },
+            {
+                "sector": "Pump Science Ecosystem",
+                "market_cap": 99111527.77750018,
+                "market_cap_change_24h": -23.211558334960472
+            },
+            {
+                "sector": "Shooting Games",
+                "market_cap": 98570725.33286183,
+                "market_cap_change_24h": 7.286871936618435
+            },
+            {
+                "sector": "Wojak-Themed",
+                "market_cap": 96556015.06463744,
+                "market_cap_change_24h": -11.246871429483091
+            },
+            {
+                "sector": "Clanker Ecosystem",
+                "market_cap": 91079740.53947537,
+                "market_cap_change_24h": -15.441971083752595
+            },
+            {
+                "sector": "Bittensor Ecosystem",
+                "market_cap": 80849266.87125097,
+                "market_cap_change_24h": -11.48055415848146
+            },
+            {
+                "sector": "Wall Street Bets Themed",
+                "market_cap": 77992071.6666914,
+                "market_cap_change_24h": -16.072045798622575
+            },
+            {
+                "sector": "DeFi Index",
+                "market_cap": 71610855.51700997,
+                "market_cap_change_24h": -1.326037702821659
+            },
+            {
+                "sector": "Celebrity-Themed",
+                "market_cap": 71337900.26488222,
+                "market_cap_change_24h": 1.0324976419610488
+            },
+            {
+                "sector": "Tourism",
+                "market_cap": 70416543.64182828,
+                "market_cap_change_24h": 3.7964165104538097
+            },
+            {
+                "sector": "TokenSets Ecosystem",
+                "market_cap": 68570086.44837329,
+                "market_cap_change_24h": -1.7360272709421494
+            },
+            {
+                "sector": "Augmented Reality",
+                "market_cap": 67778072.7432262,
+                "market_cap_change_24h": -8.194282835876372
+            },
+            {
+                "sector": "Gotchiverse",
+                "market_cap": 67721605.54315692,
+                "market_cap_change_24h": 9.567929937841543
+            },
+            {
+                "sector": "Desci Meme",
+                "market_cap": 65428708.15888399,
+                "market_cap_change_24h": -7.694997748317937
+            },
+            {
+                "sector": "Camelot Launchpad",
+                "market_cap": 64355603.3048879,
+                "market_cap_change_24h": 1.1683530358968663
+            },
+            {
+                "sector": "On-chain Gaming",
+                "market_cap": 64342474.52961648,
+                "market_cap_change_24h": -0.932777251066328
+            },
+            {
+                "sector": "Ohm Fork",
+                "market_cap": 55663845.12714521,
+                "market_cap_change_24h": -2.8679928092492926
+            },
+            {
+                "sector": "Synthetic Asset",
+                "market_cap": 49518551.14830822,
+                "market_cap_change_24h": -5.276302324951426
+            },
+            {
+                "sector": "Charity",
+                "market_cap": 46054608.34883998,
+                "market_cap_change_24h": -15.559416021218537
+            },
+            {
+                "sector": "Legal",
+                "market_cap": 43374742.27232928,
+                "market_cap_change_24h": -6.3184684967513896
+            },
+            {
+                "sector": "Retail",
+                "market_cap": 38767137.04201303,
+                "market_cap_change_24h": 41.05836245435259
+            },
+            {
+                "sector": "Impossible Finance Launchpad",
+                "market_cap": 38173283.635928944,
+                "market_cap_change_24h": 3.6553740592219226
+            },
+            {
+                "sector": "Zodiac-Themed",
+                "market_cap": 36419530.65865958,
+                "market_cap_change_24h": -3.196271546943805
+            },
+            {
+                "sector": "SGD Stablcoin",
+                "market_cap": 34346631.07969298,
+                "market_cap_change_24h": -0.4100025853523978
+            },
+            {
+                "sector": "PAAL AI Launchpad",
+                "market_cap": 34028882.76680251,
+                "market_cap_change_24h": -17.178877823307694
+            },
+            {
+                "sector": "ERC 404",
+                "market_cap": 30584235.850291573,
+                "market_cap_change_24h": -2.933066666882506
+            },
+            {
+                "sector": "Solana Token-2022",
+                "market_cap": 29499031.670756612,
+                "market_cap_change_24h": -4.192412039546229
+            },
+            {
+                "sector": "Leveraged Token",
+                "market_cap": 29220515.22156207,
+                "market_cap_change_24h": -3.5254163876659597
+            },
+            {
+                "sector": "VPN",
+                "market_cap": 25268377.86992715,
+                "market_cap_change_24h": 11.176431803454397
+            },
+            {
+                "sector": "DRC-20",
+                "market_cap": 22371611.120454375,
+                "market_cap_change_24h": -13.34971886119557
+            },
+            {
+                "sector": "Christmas Themed",
+                "market_cap": 22288211.60985448,
+                "market_cap_change_24h": -31.72646731586996
+            },
+            {
+                "sector": "Fighting Games",
+                "market_cap": 19866024.34221392,
+                "market_cap_change_24h": 5.642105157557014
+            },
+            {
+                "sector": "Virtual Reality",
+                "market_cap": 18619985.25280212,
+                "market_cap_change_24h": -1.9789947029403374
+            },
+            {
+                "sector": "IDR Stablecoin",
+                "market_cap": 18456112.41892909,
+                "market_cap_change_24h": -0.378555777252784
+            },
+            {
+                "sector": "Reddit Points",
+                "market_cap": 18148368.426810674,
+                "market_cap_change_24h": -5.732667845707496
+            },
+            {
+                "sector": "Country-Themed Meme",
+                "market_cap": 16854360.317530613,
+                "market_cap_change_24h": -20.885209088161105
+            },
+            {
+                "sector": "Anime-Themed",
+                "market_cap": 15917075.269339135,
+                "market_cap_change_24h": -15.132092618473122
+            },
+            {
+                "sector": "Emoji-Themed",
+                "market_cap": 14919598.662434883,
+                "market_cap_change_24h": -14.728073939490896
+            },
+            {
+                "sector": "TRY Stablecoin",
+                "market_cap": 13745553.015873117,
+                "market_cap_change_24h": 18.98393629496055
+            },
+            {
+                "sector": "Market-Making Solution",
+                "market_cap": 12661855.814484045,
+                "market_cap_change_24h": -3.7078545243403545
+            },
+            {
+                "sector": "JPY Stablecoin",
+                "market_cap": 11805670.19580796,
+                "market_cap_change_24h": 3.0409551711051774
+            },
+            {
+                "sector": "Wormhole Assets",
+                "market_cap": 10253180.022482745,
+                "market_cap_change_24h": -3.5124800383421735
+            },
+            {
+                "sector": "Kommunitas Launchpad",
+                "market_cap": 8700432.945870256,
+                "market_cap_change_24h": 4.462265377400414
+            },
+            {
+                "sector": "STX.CITY Ecosystem",
+                "market_cap": 7815159.560619991,
+                "market_cap_change_24h": -9.029606540918694
+            },
+            {
+                "sector": "Yield Tokenization Product",
+                "market_cap": 7246184.426121262,
+                "market_cap_change_24h": -60.117462195293136
+            },
+            {
+                "sector": "Farming-as-a-Service (FaaS)",
+                "market_cap": 7137775.635581655,
+                "market_cap_change_24h": -0.8318032940790452
+            },
+            {
+                "sector": "NFT Index",
+                "market_cap": 5722044.703923216,
+                "market_cap_change_24h": -9.997180055876493
+            },
+            {
+                "sector": "Duck-Themed",
+                "market_cap": 5193443.620577904,
+                "market_cap_change_24h": -9.797415182229887
+            },
+            {
+                "sector": "E-commerce",
+                "market_cap": 3732302.5114396145,
+                "market_cap_change_24h": 160.04716408332087
+            },
+            {
+                "sector": "ETF",
+                "market_cap": 3584717.6029298385,
+                "market_cap_change_24h": 21.787418546341215
+            },
+            {
+                "sector": " DN-404",
+                "market_cap": 3315662.255442582,
+                "market_cap_change_24h": -10.379156384494244
+            },
+            {
+                "sector": "CNY Stablecoin",
+                "market_cap": 2811091.061772483,
+                "market_cap_change_24h": 11.085014165236567
+            },
+            {
+                "sector": "Aave Tokens",
+                "market_cap": 2172215.8661534945,
+                "market_cap_change_24h": -1.081429220716101
+            },
+            {
+                "sector": "Sticker-Themed Coins",
+                "market_cap": 884758.5514420208,
+                "market_cap_change_24h": -15.225225780529616
+            },
+            {
+                "sector": "SPL22",
+                "market_cap": 742373.4324825384,
+                "market_cap_change_24h": -7.76250795161827
+            },
+            {
+                "sector": "Recruitment",
+                "market_cap": 135064.11319874495,
+                "market_cap_change_24h": 0.7705333659887321
+            },
+            {
+                "sector": "BitStarters Launchpad",
+                "market_cap": 93463.01878136415,
+                "market_cap_change_24h": 6.79138265471461
+            },
+            {
+                "sector": "Tokenized Stock",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "RealT Tokens",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Yearn Vault Tokens",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "GBP Stablecoin",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "KRW Stablecoin",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "NFT Lending/Borrowing",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "NFT AMM",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "NFT Aggregator",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "NFT Derivatives",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Centralized Exchange (CEX) Product",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Floor Protocol Tokens",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "ASC-20",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "ERC20i",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Index Coop Metaverse Index",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Centralized Finance (CeFi)",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "SRC-20",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Atomicals (ARC-20)",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Friend.tech Ecosystem",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Token Standards",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Farming Games",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "NFT Launchpad",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "HyperXpad Launchpad",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Ethereum Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BNB Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Solana Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Polygon Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Base Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Arbitrum Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Avalanche Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Fantom Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Optimism Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Gnosis Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "TON Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Cosmos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Cronos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Chiliz Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Tron Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Harmony Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Sui Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bitcoin Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Energi Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Cardano Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Near Protocol Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Blast Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Osmosis Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kaia Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Polkadot Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Linea Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Aptos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bitcichain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Moonriver Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Metis Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Algorand Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Sora Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Tezos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Mantle Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Hedera Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "MultiversX Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Celo Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Scroll Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Aurora Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Archway Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Stellar Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kava Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Manta Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Huobi ECO Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Internet Computer Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Core Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "IoTeX Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Polygon zkEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Mode Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Injective Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Terra Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zilliqa Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Sei Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Fuse Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Shibarium Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Secret Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Canto Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Stacks Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "XRP Ledger Ecocystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Merlin Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "KardiaChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Milkomeda (Cardano) Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "EthereumPoW Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Terra Classic Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Velas Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Astar Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "OEC Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Telos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "HECO Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "XDC Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kaspa Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Viction Ecocystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Dogechain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Starknet Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Arbitrum Nova Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Radix Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "X Layer Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kujira Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Evmos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Meter Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Neon Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ronin Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Sei v2 Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Hyperliquid Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Flare Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Cronos zkEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Waves Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Skale Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Conflux Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "opBNB Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "WEMIX Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Fraxtal Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "IOTA EVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ergo Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Syscoin NEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "OKT Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Oasis Emerald Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Theta Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "ZetaChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "ApeChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kucoin Community Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Beam Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BitTorrent Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Boba Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Rootstock Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Step Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Re.al Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Songbird Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ethereum Classic Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Wanchain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Elastos Smart Contract Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "ThunderCore Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "LightLink Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zedxion Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kadena Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "NEO Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Edgeware Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Astar zkEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "ShimmerEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Degen Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Flow Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Hydra Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Immutable Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "SmartBCH Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Oasys Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "VeChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Juno Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "zkLink Nova Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Sanko Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Massa Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bitrock Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kroma Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Migaloo Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Wax Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Laika Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bitgert Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Oasis Sapphire Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "World Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Oraichain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "DFK Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Gravity Alpha Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Lukso Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "GalaChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Alephium Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BSquared Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Etherlink Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Q Mainnet Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Flow EVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bitlayer Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BounceBit Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bahamut Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "EOS Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zora Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Defiverse Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "GraphLinq Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "inEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Proof of Memes Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Endurance Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Genesys Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Venom Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "XAI Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Tenet Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zircuit Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Haqq Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Saakuru Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Apex Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "QL1 Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ancient8 Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BeamPrivacy Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Mint Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Cyber Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "DefiMetaChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Onchain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Taraxa Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Aelf Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zenon Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Elysium Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ultron Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Loopring Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Berachain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "8Bit Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Chromia Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zano Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Vanar Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "AlienX Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Boba BNB Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Mainnetz Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Qubic Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Celer Network",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Fantom Sonic Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Combo Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "MultiVAC Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Lung Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "XT Smart Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Vyvo Smart Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Larissa Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ham Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Alveychain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Rari Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Omnia Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Qitmeer Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "UTON Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Jibchain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "ENULS Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "MaxxChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Nahmii Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Morph L2 Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "PlatON Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Redstone Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Moonchain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            }
+        ]
+    },
+    {
+        "date": "2024-12-02",
+        "categories": [
+            {
+                "sector": "Smart Contract Platform",
+                "market_cap": 2957154849369.2446,
+                "market_cap_change_24h": -0.6090377730408705
+            },
+            {
+                "sector": "Layer 1 (L1)",
+                "market_cap": 2753109520898.917,
+                "market_cap_change_24h": -1.1723882745176673
+            },
+            {
+                "sector": "Proof of Work (PoW)",
+                "market_cap": 1994436636415.6387,
+                "market_cap_change_24h": -0.9078868722237834
+            },
+            {
+                "sector": "Proof of Stake (PoS)",
+                "market_cap": 784992375916.1077,
+                "market_cap_change_24h": -1.4097299049209004
+            },
+            {
+                "sector": "Andreessen Horowitz (a16z) Portfolio",
+                "market_cap": 780051004479.348,
+                "market_cap_change_24h": 4.076834804452653
+            },
+            {
+                "sector": "Multicoin Capital Portfolio",
+                "market_cap": 600695292651.0813,
+                "market_cap_change_24h": -2.6973135534108748
+            },
+            {
+                "sector": "Alameda Research Portfolio",
+                "market_cap": 576645720866.3127,
+                "market_cap_change_24h": -2.889677656887443
+            },
+            {
+                "sector": "Delphi Ventures Portfolio",
+                "market_cap": 560185939697.2267,
+                "market_cap_change_24h": -3.117810102062415
+            },
+            {
+                "sector": "Galaxy Digital Portfolio",
+                "market_cap": 468578107611.7895,
+                "market_cap_change_24h": -1.846199324014464
+            },
+            {
+                "sector": "Alleged SEC Securities",
+                "market_cap": 318501763708.2423,
+                "market_cap_change_24h": -0.7167026489556664
+            },
+            {
+                "sector": "Pantera Capital Portfolio",
+                "market_cap": 228722239856.51492,
+                "market_cap_change_24h": 25.834882682664528
+            },
+            {
+                "sector": "Blockchain Capital Portfolio",
+                "market_cap": 197775194129.1497,
+                "market_cap_change_24h": 30.014521116081532
+            },
+            {
+                "sector": "Stablecoins",
+                "market_cap": 197439993825.7656,
+                "market_cap_change_24h": 0.0666867585421485
+            },
+            {
+                "sector": "Fiat-backed Stablecoin",
+                "market_cap": 191630222964.66855,
+                "market_cap_change_24h": 0.003317769651610165
+            },
+            {
+                "sector": "USD Stablecoin",
+                "market_cap": 188857957366.71887,
+                "market_cap_change_24h": 0.036871247797007574
+            },
+            {
+                "sector": "Polychain Capital Portfolio",
+                "market_cap": 168884351539.64697,
+                "market_cap_change_24h": -2.101430092948073
+            },
+            {
+                "sector": "Exchange-based Tokens",
+                "market_cap": 138197898172.98395,
+                "market_cap_change_24h": -0.888440960260974
+            },
+            {
+                "sector": "Meme",
+                "market_cap": 128727613375.27327,
+                "market_cap_change_24h": -1.036020010665552
+            },
+            {
+                "sector": "Decentralized Finance (DeFi)",
+                "market_cap": 121408006439.31265,
+                "market_cap_change_24h": 3.2291539161903207
+            },
+            {
+                "sector": "Centralized Exchange (CEX) Token",
+                "market_cap": 120802620918.09523,
+                "market_cap_change_24h": -1.7653258814747763
+            },
+            {
+                "sector": "Dog-Themed",
+                "market_cap": 93622830230.64496,
+                "market_cap_change_24h": 0.8111851402156601
+            },
+            {
+                "sector": "DWF Labs Portfolio",
+                "market_cap": 74256966402.60786,
+                "market_cap_change_24h": 3.22639111798318
+            },
+            {
+                "sector": "Coinbase Ventures Portfolio",
+                "market_cap": 66737623944.51097,
+                "market_cap_change_24h": -0.22365006990158043
+            },
+            {
+                "sector": "Elon Musk-Inspired",
+                "market_cap": 62433992537.8769,
+                "market_cap_change_24h": -0.20552785143444427
+            },
+            {
+                "sector": "DragonFly Capital Portfolio",
+                "market_cap": 58134631664.00197,
+                "market_cap_change_24h": 5.047139019653485
+            },
+            {
+                "sector": "Liquid Staking",
+                "market_cap": 57843163631.25356,
+                "market_cap_change_24h": -2.478184353385973
+            },
+            {
+                "sector": "Crypto-Backed Tokens",
+                "market_cap": 53533483249.74533,
+                "market_cap_change_24h": -2.3737166447245555
+            },
+            {
+                "sector": "Infrastructure",
+                "market_cap": 53135350202.75314,
+                "market_cap_change_24h": 10.401768591574443
+            },
+            {
+                "sector": "Binance Labs Portfolio",
+                "market_cap": 52433420123.60328,
+                "market_cap_change_24h": 0.18018400989177363
+            },
+            {
+                "sector": "Liquid Staking Tokens",
+                "market_cap": 52394846944.3666,
+                "market_cap_change_24h": -2.6232653920053868
+            },
+            {
+                "sector": "Animoca Brands Portfolio",
+                "market_cap": 52114860357.29492,
+                "market_cap_change_24h": 2.4076497375983363
+            },
+            {
+                "sector": "Wrapped-Tokens",
+                "market_cap": 49318720047.37004,
+                "market_cap_change_24h": -2.3807887098811342
+            },
+            {
+                "sector": "Liquid Staked ETH",
+                "market_cap": 41941902637.04767,
+                "market_cap_change_24h": -2.402819905387157
+            },
+            {
+                "sector": "Artificial Intelligence (AI)",
+                "market_cap": 41516245874.25106,
+                "market_cap_change_24h": -3.4861834149783513
+            },
+            {
+                "sector": "DePIN",
+                "market_cap": 40278617644.52887,
+                "market_cap_change_24h": -0.20896874285726139
+            },
+            {
+                "sector": "NFT",
+                "market_cap": 37776449878.64034,
+                "market_cap_change_24h": 0.656941579763471
+            },
+            {
+                "sector": "Eth 2.0 Staking",
+                "market_cap": 36802569859.68903,
+                "market_cap_change_24h": -2.4560068911628203
+            },
+            {
+                "sector": "Layer 2 (L2)",
+                "market_cap": 32899895754.88257,
+                "market_cap_change_24h": 3.2089319867387855
+            },
+            {
+                "sector": "Circle Ventures Portfolio",
+                "market_cap": 32036752329.21663,
+                "market_cap_change_24h": -1.0166409619569776
+            },
+            {
+                "sector": "Decentralized Exchange (DEX)",
+                "market_cap": 31058602515.55547,
+                "market_cap_change_24h": 2.251978035035062
+            },
+            {
+                "sector": "Gaming (GameFi)",
+                "market_cap": 28853986902.686222,
+                "market_cap_change_24h": 2.305386066084344
+            },
+            {
+                "sector": "Paradigm Portfolio",
+                "market_cap": 27970845686.022694,
+                "market_cap_change_24h": 4.804015903077542
+            },
+            {
+                "sector": "Index Coop Defi Index",
+                "market_cap": 27769996647.66391,
+                "market_cap_change_24h": 3.465580241160381
+            },
+            {
+                "sector": "Index Coop Index",
+                "market_cap": 27767396760.265846,
+                "market_cap_change_24h": 3.484133133184044
+            },
+            {
+                "sector": "Layer 0 (L0)",
+                "market_cap": 25678980012.357887,
+                "market_cap_change_24h": 27.42265737338952
+            },
+            {
+                "sector": "DeFiance Capital Portfolio",
+                "market_cap": 25423106972.915386,
+                "market_cap_change_24h": 9.903827448588254
+            },
+            {
+                "sector": "Outlier Ventures Portfolio",
+                "market_cap": 23577330432.663357,
+                "market_cap_change_24h": 28.92866290270207
+            },
+            {
+                "sector": "Yield Farming",
+                "market_cap": 21199102217.30662,
+                "market_cap_change_24h": 5.316875705634491
+            },
+            {
+                "sector": "Binance Launchpool",
+                "market_cap": 20842835300.35376,
+                "market_cap_change_24h": -1.5193467746728824
+            },
+            {
+                "sector": "Binance Launchpad",
+                "market_cap": 19803577890.762985,
+                "market_cap_change_24h": 1.5161964888702029
+            },
+            {
+                "sector": "Oracle",
+                "market_cap": 19588016470.022377,
+                "market_cap_change_24h": 22.861476947089088
+            },
+            {
+                "sector": "Real World Assets (RWA)",
+                "market_cap": 19318611603.210003,
+                "market_cap_change_24h": 5.249125872743521
+            },
+            {
+                "sector": "Solana Meme",
+                "market_cap": 18679615645.177902,
+                "market_cap_change_24h": -7.331350930882918
+            },
+            {
+                "sector": "Restaking",
+                "market_cap": 18238186198.091045,
+                "market_cap_change_24h": -1.6985721505849631
+            },
+            {
+                "sector": "Automated Market Maker (AMM)",
+                "market_cap": 17084298726.86456,
+                "market_cap_change_24h": 3.6019131590099964
+            },
+            {
+                "sector": "Play To Earn",
+                "market_cap": 16012461058.576778,
+                "market_cap_change_24h": 1.473744440965823
+            },
+            {
+                "sector": "OKX Ventures Portfolio",
+                "market_cap": 14808424012.247086,
+                "market_cap_change_24h": -2.551731291114683
+            },
+            {
+                "sector": "Metaverse",
+                "market_cap": 14770170111.606388,
+                "market_cap_change_24h": -0.28089922779591886
+            },
+            {
+                "sector": "Liquid Restaking Tokens",
+                "market_cap": 13873461618.699781,
+                "market_cap_change_24h": -2.2407789225939494
+            },
+            {
+                "sector": "Bitcoin Fork",
+                "market_cap": 13594594363.883102,
+                "market_cap_change_24h": 1.3663077368839558
+            },
+            {
+                "sector": "Rollup",
+                "market_cap": 13514924628.562428,
+                "market_cap_change_24h": 3.114488034838832
+            },
+            {
+                "sector": "Zero Knowledge (ZK)",
+                "market_cap": 13298515465.850573,
+                "market_cap_change_24h": 4.866337036287633
+            },
+            {
+                "sector": "Data Availability",
+                "market_cap": 13205732062.224537,
+                "market_cap_change_24h": -1.1732855098929722
+            },
+            {
+                "sector": "Frog-Themed",
+                "market_cap": 12237608266.50661,
+                "market_cap_change_24h": -2.020054344646669
+            },
+            {
+                "sector": "The Boy\u2019s Club",
+                "market_cap": 11467409654.309828,
+                "market_cap_change_24h": -0.660173384281428
+            },
+            {
+                "sector": "Storage",
+                "market_cap": 10749031520.389624,
+                "market_cap_change_24h": 2.1081146618377247
+            },
+            {
+                "sector": "Sequoia Capital Portfolio",
+                "market_cap": 10521150709.960247,
+                "market_cap_change_24h": 5.359503760440319
+            },
+            {
+                "sector": "eGirl Capital Portfolio",
+                "market_cap": 10288066336.46791,
+                "market_cap_change_24h": -1.72234759204348
+            },
+            {
+                "sector": "Internet of Things (IOT)",
+                "market_cap": 10270389149.043007,
+                "market_cap_change_24h": 19.581805281071656
+            },
+            {
+                "sector": "Lending/Borrowing",
+                "market_cap": 9906477122.036013,
+                "market_cap_change_24h": 4.480704676273008
+            },
+            {
+                "sector": "AI Agents",
+                "market_cap": 8758560805.714773,
+                "market_cap_change_24h": -2.439434070340919
+            },
+            {
+                "sector": "Ether.fi Ecosystem",
+                "market_cap": 8617948342.627823,
+                "market_cap_change_24h": -2.6692603752706336
+            },
+            {
+                "sector": "Gaming Blockchains",
+                "market_cap": 8427923427.194747,
+                "market_cap_change_24h": 0.0628857021876991
+            },
+            {
+                "sector": "Privacy Coins",
+                "market_cap": 7024397686.979776,
+                "market_cap_change_24h": 11.782117713680112
+            },
+            {
+                "sector": "Bridged-Tokens",
+                "market_cap": 6910649658.746798,
+                "market_cap_change_24h": -0.0756273939427687
+            },
+            {
+                "sector": "Gaming Utility Token",
+                "market_cap": 6853348591.580076,
+                "market_cap_change_24h": 8.518658077783464
+            },
+            {
+                "sector": "SideChain",
+                "market_cap": 6809939442.809359,
+                "market_cap_change_24h": -6.380135508965908
+            },
+            {
+                "sector": "Stablecoin Protocol",
+                "market_cap": 6745946594.751839,
+                "market_cap_change_24h": 1.4501530627052168
+            },
+            {
+                "sector": "Optimism Superchain Ecosystem",
+                "market_cap": 6661975264.052898,
+                "market_cap_change_24h": -2.571385642822075
+            },
+            {
+                "sector": "Pump.fun Ecosystem",
+                "market_cap": 6480285855.488365,
+                "market_cap_change_24h": -6.959368296925537
+            },
+            {
+                "sector": "Derivatives",
+                "market_cap": 6359625642.753989,
+                "market_cap_change_24h": 0.5475382629722498
+            },
+            {
+                "sector": "Perpetuals",
+                "market_cap": 5993826710.075031,
+                "market_cap_change_24h": -2.4455550725075224
+            },
+            {
+                "sector": "Consensys Portfolio",
+                "market_cap": 5629586139.931591,
+                "market_cap_change_24h": 6.0030732124406905
+            },
+            {
+                "sector": "Modular Blockchain",
+                "market_cap": 5363249774.126743,
+                "market_cap_change_24h": -7.041835013292102
+            },
+            {
+                "sector": "Bitcoin Sidechains",
+                "market_cap": 5289368722.882825,
+                "market_cap_change_24h": -7.753806801595255
+            },
+            {
+                "sector": "Gaming Governance Token",
+                "market_cap": 5269815327.756898,
+                "market_cap_change_24h": 3.595988869981336
+            },
+            {
+                "sector": "Crypto-backed Stablecoin",
+                "market_cap": 4778374602.402244,
+                "market_cap_change_24h": 1.1057075135404135
+            },
+            {
+                "sector": "Cat-Themed",
+                "market_cap": 4724583785.8123045,
+                "market_cap_change_24h": -10.493209706030443
+            },
+            {
+                "sector": "RWA Protocol",
+                "market_cap": 4566424132.374524,
+                "market_cap_change_24h": 6.51570240335521
+            },
+            {
+                "sector": "AI Meme",
+                "market_cap": 4526221989.0932255,
+                "market_cap_change_24h": -10.639842822938363
+            },
+            {
+                "sector": "Analytics",
+                "market_cap": 4046351824.9743633,
+                "market_cap_change_24h": -1.0783252806754133
+            },
+            {
+                "sector": "Cross-chain Communication",
+                "market_cap": 4041463581.3505077,
+                "market_cap_change_24h": 7.573658312341785
+            },
+            {
+                "sector": "Liquid Staking Governance Tokens",
+                "market_cap": 3875204656.2118926,
+                "market_cap_change_24h": -0.6648445601495843
+            },
+            {
+                "sector": "Bridge Governance Tokens",
+                "market_cap": 3843677526.500242,
+                "market_cap_change_24h": 4.226739608945079
+            },
+            {
+                "sector": "Decentralized Identifier (DID)",
+                "market_cap": 3775903694.1680408,
+                "market_cap_change_24h": -6.847877080308253
+            },
+            {
+                "sector": "Murad Picks",
+                "market_cap": 3736796225.393057,
+                "market_cap_change_24h": -17.88718634956708
+            },
+            {
+                "sector": "Liquid Staked SOL",
+                "market_cap": 3671492141.2225533,
+                "market_cap_change_24h": -5.940278743025881
+            },
+            {
+                "sector": "Privacy Blockchain",
+                "market_cap": 3403660922.8379955,
+                "market_cap_change_24h": 3.948747787626809
+            },
+            {
+                "sector": "Base Meme",
+                "market_cap": 3170209947.5296736,
+                "market_cap_change_24h": 1.2914583896445535
+            },
+            {
+                "sector": "Simulation Games",
+                "market_cap": 3139079634.783985,
+                "market_cap_change_24h": 0.4599226339278313
+            },
+            {
+                "sector": "Launchpad",
+                "market_cap": 3043005579.545294,
+                "market_cap_change_24h": -7.021924934747884
+            },
+            {
+                "sector": "Sports",
+                "market_cap": 3039201446.963904,
+                "market_cap_change_24h": 5.836331611716449
+            },
+            {
+                "sector": "Bridged WETH",
+                "market_cap": 2977991717.5974226,
+                "market_cap_change_24h": 1.1930718422112225
+            },
+            {
+                "sector": "Gaming Platform",
+                "market_cap": 2919834036.561714,
+                "market_cap_change_24h": 2.4397856812505316
+            },
+            {
+                "sector": "Wallets",
+                "market_cap": 2910474487.588692,
+                "market_cap_change_24h": 6.4715710145814995
+            },
+            {
+                "sector": "Parallelized EVM",
+                "market_cap": 2592928706.1991863,
+                "market_cap_change_24h": -5.719801762792249
+            },
+            {
+                "sector": "TokenFi Launchpad",
+                "market_cap": 2581301786.108475,
+                "market_cap_change_24h": -3.581140010363045
+            },
+            {
+                "sector": "Entertainment",
+                "market_cap": 2532198679.073313,
+                "market_cap_change_24h": 1.6638236266693431
+            },
+            {
+                "sector": "Dex Aggregator",
+                "market_cap": 2526085068.976497,
+                "market_cap_change_24h": 1.5882762425489447
+            },
+            {
+                "sector": "Masternodes",
+                "market_cap": 2363539996.275738,
+                "market_cap_change_24h": 9.304008291640356
+            },
+            {
+                "sector": "Tokenized Assets",
+                "market_cap": 2348137214.8533354,
+                "market_cap_change_24h": -0.8306882113898512
+            },
+            {
+                "sector": "Card Games",
+                "market_cap": 2261966026.6146398,
+                "market_cap_change_24h": 3.469266582352384
+            },
+            {
+                "sector": "Zoo-Themed",
+                "market_cap": 2082469244.0334573,
+                "market_cap_change_24h": 12.822705330894788
+            },
+            {
+                "sector": "AI Agent Launchpad",
+                "market_cap": 2069443735.0801878,
+                "market_cap_change_24h": -0.4009918121746797
+            },
+            {
+                "sector": "Account Abstraction",
+                "market_cap": 2050579542.9949565,
+                "market_cap_change_24h": 3.4740182549662166
+            },
+            {
+                "sector": "NFT Marketplace",
+                "market_cap": 2026462729.6986039,
+                "market_cap_change_24h": 2.6883062779870643
+            },
+            {
+                "sector": "Virtuals Protocol Ecosystem",
+                "market_cap": 1795062530.081201,
+                "market_cap_change_24h": -21.983921655504375
+            },
+            {
+                "sector": "Telegram Apps",
+                "market_cap": 1776060093.7544158,
+                "market_cap_change_24h": -6.936280405971816
+            },
+            {
+                "sector": "Curve Ecosystem",
+                "market_cap": 1743759439.006312,
+                "market_cap_change_24h": 10.089516844338197
+            },
+            {
+                "sector": "Inscriptions",
+                "market_cap": 1743218995.1690803,
+                "market_cap_change_24h": -7.9142346008927165
+            },
+            {
+                "sector": "Tokenized Commodities",
+                "market_cap": 1729800988.6517158,
+                "market_cap_change_24h": -0.5970502632696296
+            },
+            {
+                "sector": "SocialFi",
+                "market_cap": 1713224969.6947372,
+                "market_cap_change_24h": 2.590589596260142
+            },
+            {
+                "sector": "Name Service",
+                "market_cap": 1688858106.377242,
+                "market_cap_change_24h": 10.736038150987302
+            },
+            {
+                "sector": "BRC-20",
+                "market_cap": 1638112230.4957047,
+                "market_cap_change_24h": -6.809555377221889
+            },
+            {
+                "sector": "Liquid Restaking Governance Tokens",
+                "market_cap": 1625143706.9182558,
+                "market_cap_change_24h": -0.5605638407032076
+            },
+            {
+                "sector": "Appchains",
+                "market_cap": 1624452899.7189484,
+                "market_cap_change_24h": 3.00071570121648
+            },
+            {
+                "sector": "Tokenized Gold",
+                "market_cap": 1614493733.2670717,
+                "market_cap_change_24h": -0.36643351116139905
+            },
+            {
+                "sector": "Axie Infinity Ecosystem",
+                "market_cap": 1601841107.591649,
+                "market_cap_change_24h": 11.133850174803165
+            },
+            {
+                "sector": "Avalanche L1",
+                "market_cap": 1566011161.0897477,
+                "market_cap_change_24h": 2.01465273385913
+            },
+            {
+                "sector": "Bridged WBTC",
+                "market_cap": 1497718550.326784,
+                "market_cap_change_24h": -1.65642061244102
+            },
+            {
+                "sector": "MEV Protection",
+                "market_cap": 1441512687.2969828,
+                "market_cap_change_24h": -0.9891691418003303
+            },
+            {
+                "sector": "Breeding",
+                "market_cap": 1439436874.1392117,
+                "market_cap_change_24h": 11.837290267064033
+            },
+            {
+                "sector": "Tap to Earn",
+                "market_cap": 1407916600.4205515,
+                "market_cap_change_24h": -3.877448458556196
+            },
+            {
+                "sector": "Synthetic Issuer",
+                "market_cap": 1388286972.8519175,
+                "market_cap_change_24h": 3.171539828661898
+            },
+            {
+                "sector": "Rollups-as-a-Service (RaaS)",
+                "market_cap": 1361523734.1152472,
+                "market_cap_change_24h": -0.9745397966018516
+            },
+            {
+                "sector": "TON Meme",
+                "market_cap": 1351967046.6467981,
+                "market_cap_change_24h": -6.240138951837687
+            },
+            {
+                "sector": "Memorial Themed",
+                "market_cap": 1346409864.099004,
+                "market_cap_change_24h": 3.5806310782823885
+            },
+            {
+                "sector": "Yield Aggregator",
+                "market_cap": 1199506197.5736098,
+                "market_cap_change_24h": 11.379371809926116
+            },
+            {
+                "sector": "Decentralized Science (DeSci)",
+                "market_cap": 1190423563.850386,
+                "market_cap_change_24h": -7.8342895158280355
+            },
+            {
+                "sector": "LSDFi",
+                "market_cap": 1172440941.7402024,
+                "market_cap_change_24h": -1.584049571785745
+            },
+            {
+                "sector": "Prediction Markets",
+                "market_cap": 1168299214.8371136,
+                "market_cap_change_24h": -2.711378981045649
+            },
+            {
+                "sector": "Runes",
+                "market_cap": 1116341316.9577312,
+                "market_cap_change_24h": -7.01959148937442
+            },
+            {
+                "sector": "Seigniorage",
+                "market_cap": 1093155353.9792502,
+                "market_cap_change_24h": 0.8436667588785085
+            },
+            {
+                "sector": "Layer 3 (L3)",
+                "market_cap": 1088823605.2628667,
+                "market_cap_change_24h": -2.545755845848279
+            },
+            {
+                "sector": "NFTFi",
+                "market_cap": 1014926163.0584307,
+                "market_cap_change_24h": 3.0867683753492106
+            },
+            {
+                "sector": "DaoMaker Launchpad",
+                "market_cap": 1004844887.839826,
+                "market_cap_change_24h": -1.0397256972227629
+            },
+            {
+                "sector": "Liquid Restaked ETH",
+                "market_cap": 990218758.3763605,
+                "market_cap_change_24h": 10.078561608395308
+            },
+            {
+                "sector": "Fixed Interest",
+                "market_cap": 981219474.4426466,
+                "market_cap_change_24h": -1.3039966783544406
+            },
+            {
+                "sector": "Algorithmic Stablecoin",
+                "market_cap": 970599895.2248775,
+                "market_cap_change_24h": -0.38876144665002016
+            },
+            {
+                "sector": "BTCfi",
+                "market_cap": 963979426.9220759,
+                "market_cap_change_24h": -1.571384496770949
+            },
+            {
+                "sector": "Bridged USDC",
+                "market_cap": 949557388.7293898,
+                "market_cap_change_24h": -0.17564647618336005
+            },
+            {
+                "sector": "LRTfi",
+                "market_cap": 947645875.7166002,
+                "market_cap_change_24h": -1.4103596711305866
+            },
+            {
+                "sector": "Yield Tokenization Protocol",
+                "market_cap": 938827374.0643142,
+                "market_cap_change_24h": -1.3210336624001138
+            },
+            {
+                "sector": "Terminal of Truths",
+                "market_cap": 894096230.4282755,
+                "market_cap_change_24h": -18.456127225897436
+            },
+            {
+                "sector": "RPG",
+                "market_cap": 892958157.2088335,
+                "market_cap_change_24h": -0.26156440490259486
+            },
+            {
+                "sector": "Payment Solutions",
+                "market_cap": 869400355.1343602,
+                "market_cap_change_24h": 3.2108616913483092
+            },
+            {
+                "sector": "Move To Earn",
+                "market_cap": 689881411.524364,
+                "market_cap_change_24h": -1.2427055705357337
+            },
+            {
+                "sector": "Sports Games",
+                "market_cap": 672650977.5212765,
+                "market_cap_change_24h": -1.102901128961598
+            },
+            {
+                "sector": "Olympus Pro Ecosystem",
+                "market_cap": 664683156.0201067,
+                "market_cap_change_24h": 0.8807988129877863
+            },
+            {
+                "sector": "Yearn Ecosystem",
+                "market_cap": 658075559.2812818,
+                "market_cap_change_24h": 3.3735572673037337
+            },
+            {
+                "sector": "Intent",
+                "market_cap": 627459510.403697,
+                "market_cap_change_24h": 10.144857720321536
+            },
+            {
+                "sector": "Discord Bots",
+                "market_cap": 619616360.7337055,
+                "market_cap_change_24h": -9.533595565591769
+            },
+            {
+                "sector": "Venture Capital Portfolios",
+                "market_cap": 597513656.6837066,
+                "market_cap_change_24h": 8.57014725191736
+            },
+            {
+                "sector": "Gambling (GambleFi)",
+                "market_cap": 596119007.8211217,
+                "market_cap_change_24h": 7.195869366930172
+            },
+            {
+                "sector": "Rebase Tokens",
+                "market_cap": 526439640.6629108,
+                "market_cap_change_24h": 4.137549205292293
+            },
+            {
+                "sector": "Quest-to-Earn",
+                "market_cap": 504112884.6016077,
+                "market_cap_change_24h": 37.646894906188614
+            },
+            {
+                "sector": "Poolz Finance Launchpad",
+                "market_cap": 499587445.4203176,
+                "market_cap_change_24h": -3.5137208118579704
+            },
+            {
+                "sector": "Metagovernance",
+                "market_cap": 485846302.896479,
+                "market_cap_change_24h": 21.87121842952866
+            },
+            {
+                "sector": "PolitiFi",
+                "market_cap": 476811541.76754457,
+                "market_cap_change_24h": -3.1703004961162256
+            },
+            {
+                "sector": "Insurance",
+                "market_cap": 472330999.68262285,
+                "market_cap_change_24h": 1.0098445574914732
+            },
+            {
+                "sector": "Farcaster Ecosystem",
+                "market_cap": 468521041.6888402,
+                "market_cap_change_24h": -4.63169117555852
+            },
+            {
+                "sector": "Adventure Games",
+                "market_cap": 447138462.1759718,
+                "market_cap_change_24h": -1.759441445463137
+            },
+            {
+                "sector": "Yield Optimizer",
+                "market_cap": 438167989.00580907,
+                "market_cap_change_24h": 26.50609867471689
+            },
+            {
+                "sector": "Guild and Scholarship",
+                "market_cap": 435666651.1748816,
+                "market_cap_change_24h": 3.879178648743805
+            },
+            {
+                "sector": "Music",
+                "market_cap": 428397241.00793964,
+                "market_cap_change_24h": 6.65663930647372
+            },
+            {
+                "sector": "Sui Meme",
+                "market_cap": 390147193.06039256,
+                "market_cap_change_24h": -12.589889839620186
+            },
+            {
+                "sector": "ChainGPT Launchpad",
+                "market_cap": 352761257.0594681,
+                "market_cap_change_24h": -5.766147145114418
+            },
+            {
+                "sector": "Cybersecurity",
+                "market_cap": 352133393.57112396,
+                "market_cap_change_24h": 0.5745930706543387
+            },
+            {
+                "sector": "Compound Tokens",
+                "market_cap": 351378035.238353,
+                "market_cap_change_24h": -1.4839738031800482
+            },
+            {
+                "sector": "Bridged USDT",
+                "market_cap": 344606433.6099814,
+                "market_cap_change_24h": 0.16730874848633326
+            },
+            {
+                "sector": "EUR Stablecoin",
+                "market_cap": 326357165.21229535,
+                "market_cap_change_24h": -1.3258648825440011
+            },
+            {
+                "sector": "Hybrid Token Standards",
+                "market_cap": 317871225.9032039,
+                "market_cap_change_24h": -9.494413162986742
+            },
+            {
+                "sector": "Liquid Restaked SOL",
+                "market_cap": 316765524.58787894,
+                "market_cap_change_24h": -9.212916377229273
+            },
+            {
+                "sector": "Tokenized Real Estate",
+                "market_cap": 292627413.0720449,
+                "market_cap_change_24h": -4.5008626090925805
+            },
+            {
+                "sector": "Energy",
+                "market_cap": 273906726.44521284,
+                "market_cap_change_24h": -0.07328577485447384
+            },
+            {
+                "sector": "Fan Token",
+                "market_cap": 261068382.86023262,
+                "market_cap_change_24h": 3.105807249230179
+            },
+            {
+                "sector": "Binance Megadrop",
+                "market_cap": 260905566.9128146,
+                "market_cap_change_24h": -3.982182059311587
+            },
+            {
+                "sector": "TRON Meme",
+                "market_cap": 244394065.81992626,
+                "market_cap_change_24h": -8.15925875258886
+            },
+            {
+                "sector": "Education",
+                "market_cap": 238595543.3072085,
+                "market_cap_change_24h": -0.10966111196297763
+            },
+            {
+                "sector": "Commodity-backed Stablecoin",
+                "market_cap": 234574035.23909986,
+                "market_cap_change_24h": -0.5521396669019333
+            },
+            {
+                "sector": "Parody Meme",
+                "market_cap": 230196315.53298122,
+                "market_cap_change_24h": -20.020229316578735
+            },
+            {
+                "sector": "Sun Pump Ecosystem",
+                "market_cap": 216605268.20666394,
+                "market_cap_change_24h": -8.68456259347758
+            },
+            {
+                "sector": "Tokenized Treasury Bonds (T-Bonds)",
+                "market_cap": 197269292.72217032,
+                "market_cap_change_24h": -0.8463933332629588
+            },
+            {
+                "sector": "Binance HODLer Airdrops",
+                "market_cap": 196673430.1738512,
+                "market_cap_change_24h": -15.103894659646272
+            },
+            {
+                "sector": "Strategy Games",
+                "market_cap": 188737913.73179764,
+                "market_cap_change_24h": 1.1297613361839651
+            },
+            {
+                "sector": "Fractionalized NFT",
+                "market_cap": 188449068.52997917,
+                "market_cap_change_24h": -7.529937510431559
+            },
+            {
+                "sector": "Morpho Ecosystem",
+                "market_cap": 182675613.102572,
+                "market_cap_change_24h": -12.64046801133461
+            },
+            {
+                "sector": "Bridged DAI",
+                "market_cap": 176065983.8151198,
+                "market_cap_change_24h": -1.1034996188383908
+            },
+            {
+                "sector": "Marketing",
+                "market_cap": 169307823.36767355,
+                "market_cap_change_24h": -2.9654658372270366
+            },
+            {
+                "sector": "Animal Racing",
+                "market_cap": 149617605.80099913,
+                "market_cap_change_24h": -1.2256506249997832
+            },
+            {
+                "sector": "AI Applications",
+                "market_cap": 148677754.6160042,
+                "market_cap_change_24h": -1.3737908468274056
+            },
+            {
+                "sector": "Healthcare",
+                "market_cap": 141431916.72163245,
+                "market_cap_change_24h": -7.803393737129608
+            },
+            {
+                "sector": "Racing Games",
+                "market_cap": 137943909.42783785,
+                "market_cap_change_24h": -5.551290340903752
+            },
+            {
+                "sector": "Liquid Staked APT\t",
+                "market_cap": 133386934.51220343,
+                "market_cap_change_24h": -1.6124595409511986
+            },
+            {
+                "sector": "Mascot-Themed",
+                "market_cap": 132074535.93253832,
+                "market_cap_change_24h": -17.291299253640272
+            },
+            {
+                "sector": "Regenerative Finance (ReFi)",
+                "market_cap": 131518040.23010111,
+                "market_cap_change_24h": 5.585335851749932
+            },
+            {
+                "sector": "Tokenized Treasury Bills (T-Bills)",
+                "market_cap": 121677376.41262735,
+                "market_cap_change_24h": 1.9949498782164683
+            },
+            {
+                "sector": "Tokenized Silver",
+                "market_cap": 115180097.54557799,
+                "market_cap_change_24h": -3.7139446530130003
+            },
+            {
+                "sector": "Options",
+                "market_cap": 109475639.12832274,
+                "market_cap_change_24h": 0.7447218795303026
+            },
+            {
+                "sector": "Pump Science Ecosystem",
+                "market_cap": 99197467.3493948,
+                "market_cap_change_24h": -23.144975103411838
+            },
+            {
+                "sector": "Shooting Games",
+                "market_cap": 98445857.45740657,
+                "market_cap_change_24h": 7.150962580998628
+            },
+            {
+                "sector": "Wojak-Themed",
+                "market_cap": 96034092.69608693,
+                "market_cap_change_24h": -11.726616197831108
+            },
+            {
+                "sector": "Clanker Ecosystem",
+                "market_cap": 90052793.50622325,
+                "market_cap_change_24h": -16.3953841745107
+            },
+            {
+                "sector": "Bittensor Ecosystem",
+                "market_cap": 80837620.21301374,
+                "market_cap_change_24h": -11.493305736485341
+            },
+            {
+                "sector": "Wall Street Bets Themed",
+                "market_cap": 77852093.60458946,
+                "market_cap_change_24h": -16.22267742225087
+            },
+            {
+                "sector": "DeFi Index",
+                "market_cap": 71966236.32058401,
+                "market_cap_change_24h": -0.836351722116174
+            },
+            {
+                "sector": "Celebrity-Themed",
+                "market_cap": 71224378.16860606,
+                "market_cap_change_24h": 0.8717216605858568
+            },
+            {
+                "sector": "Tourism",
+                "market_cap": 70307102.10957855,
+                "market_cap_change_24h": 3.6350959133691796
+            },
+            {
+                "sector": "TokenSets Ecosystem",
+                "market_cap": 68935606.8341108,
+                "market_cap_change_24h": -1.212220359264013
+            },
+            {
+                "sector": "Augmented Reality",
+                "market_cap": 67798582.04070154,
+                "market_cap_change_24h": -8.166502896331782
+            },
+            {
+                "sector": "Gotchiverse",
+                "market_cap": 67630231.6487168,
+                "market_cap_change_24h": 9.420094570031456
+            },
+            {
+                "sector": "Camelot Launchpad",
+                "market_cap": 64316927.00791601,
+                "market_cap_change_24h": 1.1075530889577332
+            },
+            {
+                "sector": "On-chain Gaming",
+                "market_cap": 64260356.99776276,
+                "market_cap_change_24h": -1.0592124850112181
+            },
+            {
+                "sector": "Desci Meme",
+                "market_cap": 63986359.68383936,
+                "market_cap_change_24h": -9.729822872992624
+            },
+            {
+                "sector": "Ohm Fork",
+                "market_cap": 55591466.29176844,
+                "market_cap_change_24h": -2.994292053259766
+            },
+            {
+                "sector": "Synthetic Asset",
+                "market_cap": 49462697.38108472,
+                "market_cap_change_24h": -5.383144614109801
+            },
+            {
+                "sector": "Charity",
+                "market_cap": 46485345.29641592,
+                "market_cap_change_24h": -14.769664882330266
+            },
+            {
+                "sector": "Legal",
+                "market_cap": 43123898.29462645,
+                "market_cap_change_24h": -6.860245733190645
+            },
+            {
+                "sector": "Retail",
+                "market_cap": 38752330.343813516,
+                "market_cap_change_24h": 41.00448670389118
+            },
+            {
+                "sector": "Impossible Finance Launchpad",
+                "market_cap": 38103201.09986363,
+                "market_cap_change_24h": 3.4650726023142098
+            },
+            {
+                "sector": "Zodiac-Themed",
+                "market_cap": 36516747.39809079,
+                "market_cap_change_24h": -2.9378678093120936
+            },
+            {
+                "sector": "SGD Stablcoin",
+                "market_cap": 34255712.44797703,
+                "market_cap_change_24h": -0.6736262949536723
+            },
+            {
+                "sector": "PAAL AI Launchpad",
+                "market_cap": 34009416.691173494,
+                "market_cap_change_24h": -17.226255289062887
+            },
+            {
+                "sector": "ERC 404",
+                "market_cap": 30550473.544094346,
+                "market_cap_change_24h": -3.0402200232998506
+            },
+            {
+                "sector": "Solana Token-2022",
+                "market_cap": 29384429.845767215,
+                "market_cap_change_24h": -4.564618305522911
+            },
+            {
+                "sector": "Leveraged Token",
+                "market_cap": 29219926.365417276,
+                "market_cap_change_24h": -3.52736055774461
+            },
+            {
+                "sector": "VPN",
+                "market_cap": 25357140.31082087,
+                "market_cap_change_24h": 11.566970978842999
+            },
+            {
+                "sector": "Christmas Themed",
+                "market_cap": 22905897.829271514,
+                "market_cap_change_24h": -29.83436304891029
+            },
+            {
+                "sector": "DRC-20",
+                "market_cap": 22436191.278029,
+                "market_cap_change_24h": -13.099585387137767
+            },
+            {
+                "sector": "Fighting Games",
+                "market_cap": 19841750.97881081,
+                "market_cap_change_24h": 5.513026024007871
+            },
+            {
+                "sector": "Virtual Reality",
+                "market_cap": 18653547.311525173,
+                "market_cap_change_24h": -1.8023142871823439
+            },
+            {
+                "sector": "IDR Stablecoin",
+                "market_cap": 18401526.486284345,
+                "market_cap_change_24h": -0.6731968869773682
+            },
+            {
+                "sector": "Reddit Points",
+                "market_cap": 18192366.455393404,
+                "market_cap_change_24h": -5.5041306749271754
+            },
+            {
+                "sector": "Country-Themed Meme",
+                "market_cap": 17176179.227954045,
+                "market_cap_change_24h": -19.374583034727124
+            },
+            {
+                "sector": "Anime-Themed",
+                "market_cap": 16084903.74932721,
+                "market_cap_change_24h": -14.237251596828457
+            },
+            {
+                "sector": "Emoji-Themed",
+                "market_cap": 15018761.237878252,
+                "market_cap_change_24h": -14.161317152495892
+            },
+            {
+                "sector": "TRY Stablecoin",
+                "market_cap": 13734300.53462136,
+                "market_cap_change_24h": 18.88653282848137
+            },
+            {
+                "sector": "Market-Making Solution",
+                "market_cap": 12634450.89388051,
+                "market_cap_change_24h": -3.9162662011251883
+            },
+            {
+                "sector": "JPY Stablecoin",
+                "market_cap": 11784400.140343431,
+                "market_cap_change_24h": 2.8553082069552183
+            },
+            {
+                "sector": "Wormhole Assets",
+                "market_cap": 10214348.684547843,
+                "market_cap_change_24h": -3.8779022279376005
+            },
+            {
+                "sector": "Kommunitas Launchpad",
+                "market_cap": 8701154.487188423,
+                "market_cap_change_24h": 4.470928606130301
+            },
+            {
+                "sector": "STX.CITY Ecosystem",
+                "market_cap": 7805068.67881683,
+                "market_cap_change_24h": -9.147066905081735
+            },
+            {
+                "sector": "Yield Tokenization Product",
+                "market_cap": 7237572.330633308,
+                "market_cap_change_24h": -60.16486262063117
+            },
+            {
+                "sector": "Farming-as-a-Service (FaaS)",
+                "market_cap": 7065058.598263307,
+                "market_cap_change_24h": -1.842092469422419
+            },
+            {
+                "sector": "NFT Index",
+                "market_cap": 6049084.338818648,
+                "market_cap_change_24h": -4.85312912703558
+            },
+            {
+                "sector": "Duck-Themed",
+                "market_cap": 5279414.6715813745,
+                "market_cap_change_24h": -8.304222690587814
+            },
+            {
+                "sector": "E-commerce",
+                "market_cap": 3825669.588519803,
+                "market_cap_change_24h": 166.55248982769274
+            },
+            {
+                "sector": "ETF",
+                "market_cap": 3581570.4020474344,
+                "market_cap_change_24h": 21.68049534803921
+            },
+            {
+                "sector": " DN-404",
+                "market_cap": 3339361.974844676,
+                "market_cap_change_24h": -9.738563741869093
+            },
+            {
+                "sector": "CNY Stablecoin",
+                "market_cap": 2808161.4406063515,
+                "market_cap_change_24h": 10.969245233676844
+            },
+            {
+                "sector": "Aave Tokens",
+                "market_cap": 2170442.537546329,
+                "market_cap_change_24h": -1.1621832259123828
+            },
+            {
+                "sector": "Sticker-Themed Coins",
+                "market_cap": 883090.7038937993,
+                "market_cap_change_24h": -15.385033672866488
+            },
+            {
+                "sector": "SPL22",
+                "market_cap": 742987.6035903394,
+                "market_cap_change_24h": -7.686199182751496
+            },
+            {
+                "sector": "Recruitment",
+                "market_cap": 134167.9666429234,
+                "market_cap_change_24h": 0.10192373856424157
+            },
+            {
+                "sector": "BitStarters Launchpad",
+                "market_cap": 93814.81654602945,
+                "market_cap_change_24h": 7.1933488033934765
+            },
+            {
+                "sector": "Tokenized Stock",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "RealT Tokens",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Yearn Vault Tokens",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "GBP Stablecoin",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "KRW Stablecoin",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "NFT Lending/Borrowing",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "NFT AMM",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "NFT Aggregator",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "NFT Derivatives",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Centralized Exchange (CEX) Product",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Floor Protocol Tokens",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "ASC-20",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "ERC20i",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Index Coop Metaverse Index",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Centralized Finance (CeFi)",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "SRC-20",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Atomicals (ARC-20)",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Friend.tech Ecosystem",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Token Standards",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Farming Games",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "NFT Launchpad",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "HyperXpad Launchpad",
+                "market_cap": 0.0,
+                "market_cap_change_24h": 0
+            },
+            {
+                "sector": "Ethereum Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BNB Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Solana Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Polygon Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Base Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Arbitrum Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Avalanche Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Fantom Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Optimism Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Gnosis Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "TON Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Cosmos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Cronos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Chiliz Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Tron Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Harmony Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Sui Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bitcoin Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Energi Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Cardano Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Near Protocol Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Blast Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Osmosis Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kaia Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Polkadot Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Linea Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Aptos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bitcichain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Moonriver Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Metis Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Algorand Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Sora Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Tezos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Mantle Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Hedera Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "MultiversX Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Celo Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Scroll Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Aurora Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Archway Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Stellar Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kava Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Manta Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Huobi ECO Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Internet Computer Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Core Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "IoTeX Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Polygon zkEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Mode Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Injective Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Terra Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zilliqa Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Sei Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Fuse Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Shibarium Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Secret Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Canto Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Stacks Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "XRP Ledger Ecocystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Merlin Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "KardiaChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Milkomeda (Cardano) Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "EthereumPoW Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Terra Classic Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Velas Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Astar Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "OEC Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Telos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "HECO Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "XDC Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kaspa Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Viction Ecocystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Dogechain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Starknet Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Arbitrum Nova Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Radix Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "X Layer Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kujira Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Evmos Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Meter Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Neon Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ronin Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Sei v2 Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Hyperliquid Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Flare Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Cronos zkEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Waves Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Skale Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Conflux Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "opBNB Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "WEMIX Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Fraxtal Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "IOTA EVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ergo Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Syscoin NEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "OKT Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Oasis Emerald Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Theta Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "ZetaChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "ApeChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kucoin Community Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Beam Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BitTorrent Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Boba Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Rootstock Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Step Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Re.al Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Songbird Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ethereum Classic Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Wanchain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Elastos Smart Contract Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "ThunderCore Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "LightLink Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zedxion Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kadena Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "NEO Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Edgeware Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Astar zkEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "ShimmerEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Degen Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Flow Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Hydra Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Immutable Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "SmartBCH Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Oasys Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "VeChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Juno Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "zkLink Nova Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Sanko Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Massa Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bitrock Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Kroma Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Migaloo Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Wax Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Laika Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bitgert Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Oasis Sapphire Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "World Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Oraichain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "DFK Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Gravity Alpha Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Lukso Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "GalaChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Alephium Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BSquared Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Etherlink Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Q Mainnet Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Flow EVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bitlayer Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BounceBit Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Bahamut Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "EOS Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zora Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Defiverse Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "GraphLinq Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "inEVM Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Proof of Memes Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Endurance Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Genesys Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Venom Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "XAI Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Tenet Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zircuit Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Haqq Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Saakuru Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Apex Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "QL1 Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ancient8 Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "BeamPrivacy Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Mint Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Cyber Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "DefiMetaChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Onchain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Taraxa Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Aelf Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zenon Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Elysium Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ultron Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Loopring Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Berachain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "8Bit Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Chromia Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Zano Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Vanar Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "AlienX Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Boba BNB Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Mainnetz Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Qubic Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Celer Network",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Fantom Sonic Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Combo Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "MultiVAC Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Lung Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "XT Smart Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Vyvo Smart Chain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Larissa Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Ham Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Alveychain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Rari Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Omnia Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Qitmeer Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "UTON Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Jibchain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "ENULS Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "MaxxChain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Nahmii Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Morph L2 Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "PlatON Network Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Redstone Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            },
+            {
+                "sector": "Moonchain Ecosystem",
+                "market_cap": null,
+                "market_cap_change_24h": null
+            }
+        ]
+    }
+]
